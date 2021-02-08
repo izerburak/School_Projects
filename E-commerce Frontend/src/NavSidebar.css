@@ -1,0 +1,9 @@
+.navigationClass {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  margin-top: 10%;
+}
+
+.navigationClass > *{
+  color:white;
+}

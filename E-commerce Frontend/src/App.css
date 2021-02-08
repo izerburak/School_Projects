@@ -1,0 +1,121 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.quantity {
+  background-color: white;
+  width: 40px;
+}
+
+.product {
+  padding: 200px;
+}
+
+button {
+  font-size: 15px;
+  margin-top: 10px;
+}
+
+header {
+  background-color: orange;
+  height: 50px;
+  padding-top: 10px;
+}
+
+.searchbar {
+  margin-top: 40px;
+  width: 600px;
+  margin-left: 650px;
+}
+
+.cartDiv {
+  position: absolute;
+  top: 80px;
+  left: 590px;
+}
+
+.cartDiv button {
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 1px solid indigo;
+}
+
+.pmanagerDiv {
+  position: absolute;
+  top: 80px;
+  left: 760px;
+}
+
+.pmanagerDiv button {
+  margin-top: 20px;
+  margin-left: 20px;
+  border: 1px solid indigo;
+}
+
+.invoiceString {
+  width: 660px;
+  font-size: 30px;
+  border: 1px solid indigo;
+  background-color: white;
+  word-wrap: normal;
+  margin-left: 30%;
+  margin-top: 7%;
+  text-align: center;
+}
+
+.invoiceStructured {
+  width: 300px;
+  font-size: 20px;
+  border: 1px solid indigo;
+  background-color: grey;
+  word-wrap: break-word;
+  margin-left: 180px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.verif {
+  font-size: 40px;
+  position: absolute;
+  left: 35%;
+  top: 37%;
+}
+
+.verif a {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: darkmagenta;
+}

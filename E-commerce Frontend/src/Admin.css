@@ -1,0 +1,145 @@
+.admin-button {
+  width: 99%;
+  height: 149px;
+  padding: 0.3em 1.2em;
+  margin: 0 0.1em 0.1em 0;
+  border: 0.16em solid rgba(255, 255, 255, 0);
+  border-color: #4f4846;
+  border-radius: 2em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #e8cebf;
+  text-shadow: 0 0.04em 0.04em rgba(0, 0, 0, 0.35);
+  text-align: center;
+  transition: all 0.2s;
+  font-size: 80px;
+  background-color: #266150;
+}
+
+.admin-button:hover {
+  border-color: #fdf8f5;
+  color: #fdf8f5;
+}
+
+.admin-body {
+  background-color: #ddaf94;
+  height: 534px;
+}
+
+.admin-box {
+  background-color: wheat;
+  font-size: 15px;
+  border: 3px solid black;
+  margin-left: 1px;
+}
+
+.admin-box-long {
+  background-color: wheat;
+  font-size: 15px;
+  border: 3px solid black;
+  margin-left: 1px;
+  width: 30%;
+  height: 80px;
+}
+
+.admin-head {
+  position: relative;
+  top: 50px;
+  font-size: 45px;
+  text-align: center;
+  color: #4f4846;
+  right: 130px;
+}
+
+.admin-products {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  row-gap: 10px;
+  column-gap: 10px;
+}
+
+.admin-product-inner {
+  margin-left: 1px;
+  border: 3px solid #4f4846;
+  background-color: #266150;
+}
+
+.admin-product-inner-text {
+  color: #e8cebf;
+}
+.admin-product {
+  padding: 200px;
+}
+
+.admin-small-button {
+  font-size: 15px;
+  width: 150px;
+  border-radius: 20%;
+  background-color: deepskyblue;
+  margin-left: 1px;
+  position: relative;
+  left: 3%;
+  border-radius: 1px solid;
+  box-shadow: 3px 5px 5px 5px white;
+  transition: 0.2s;
+}
+
+.admin-delete-button {
+  border: 3px solid black;
+  background-color: red;
+}
+
+.admin-mid-button {
+  margin-left: 10px;
+  font-size: 40px;
+  margin-top: 10px;
+  border: 3px solid black;
+  background-color: red;
+}
+
+.admin-mid-button:hover {
+  border-color: #fdf8f5;
+  color: #fdf8f5;
+}
+
+.admin-delete-button:hover {
+  border-color: #fdf8f5;
+  color: #fdf8f5;
+}
+
+.admin-small-button:hover {
+  border-color: #fdf8f5;
+  color: #fdf8f5;
+  transform: scale(1.2);
+}
+
+.admin-mid-button-sales {
+  margin-left: 10px;
+  font-size: 30px;
+  border: 3px solid black;
+  background-color: red;
+}
+
+.statusContainer {
+  height: 550px;
+  width: 50%;
+  position: relative;
+  top: 80px;
+  left: 350px;
+  box-shadow: 5px 6px 8px 10px deepskyblue;
+  border: 1px solid;
+}
+.iterative-admin-box {
+  background-color: wheat;
+  font-size: 15px;
+  border: 3px solid black;
+  margin-left: 1px;
+}
+
+.statusContainer h3 {
+  position: relative;
+  left: 50px;
+  font-size: 20px;
+}
