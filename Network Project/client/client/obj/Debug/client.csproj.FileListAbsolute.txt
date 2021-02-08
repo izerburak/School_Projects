@@ -1,0 +1,144 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\bin\Debug\client.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\client\client\obj\Debug\client.pdb
+C:\Users\asus\Desktop\socket_programming_examples\client\client\bin\Debug\client.exe.config
+C:\Users\asus\Desktop\socket_programming_examples\client\client\bin\Debug\client.exe
+C:\Users\asus\Desktop\socket_programming_examples\client\client\bin\Debug\client.pdb
+C:\Users\asus\Desktop\socket_programming_examples\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\socket_programming_examples\client\client\obj\Debug\client.Form1.resources
+C:\Users\asus\Desktop\socket_programming_examples\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\asus\Desktop\socket_programming_examples\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\socket_programming_examples\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\socket_programming_examples\client\client\obj\Debug\client.exe
+C:\Users\asus\Desktop\socket_programming_examples\client\client\obj\Debug\client.pdb
+C:\Users\asus\Desktop\cs408_project_s1\client\client\bin\Debug\client.exe.config
+C:\Users\asus\Desktop\cs408_project_s1\client\client\bin\Debug\client.exe
+C:\Users\asus\Desktop\cs408_project_s1\client\client\bin\Debug\client.pdb
+C:\Users\asus\Desktop\cs408_project_s1\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\cs408_project_s1\client\client\obj\Debug\client.Form1.resources
+C:\Users\asus\Desktop\cs408_project_s1\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\asus\Desktop\cs408_project_s1\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\cs408_project_s1\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\cs408_project_s1\client\client\obj\Debug\client.exe
+C:\Users\asus\Desktop\cs408_project_s1\client\client\obj\Debug\client.pdb
+C:\Users\HP\Desktop\cs408_project_s1\client\client\bin\Debug\client.exe.config
+C:\Users\HP\Desktop\cs408_project_s1\client\client\obj\Debug\client.exe
+C:\Users\HP\Desktop\cs408_project_s1\client\client\obj\Debug\client.pdb
+C:\Users\HP\Desktop\cs408_project_s1\client\client\bin\Debug\client.exe
+C:\Users\HP\Desktop\cs408_project_s1\client\client\bin\Debug\client.pdb
+C:\Users\HP\Desktop\cs408_project_s1\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\cs408_project_s1\client\client\obj\Debug\client.Form1.resources
+C:\Users\HP\Desktop\cs408_project_s1\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\HP\Desktop\cs408_project_s1\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\cs408_project_s1\client\client\bin\Debug\client.exe.config
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\cs408_project_s1\client\client\bin\Debug\client.exe
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\cs408_project_s1\client\client\bin\Debug\client.pdb
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\cs408_project_s1\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\cs408_project_s1\client\client\obj\Debug\client.Form1.resources
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\cs408_project_s1\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\cs408_project_s1\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\cs408_project_s1\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\cs408_project_s1\client\client\obj\Debug\client.exe
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\cs408_project_s1\client\client\obj\Debug\client.pdb
+C:\Users\asus\Desktop\sadas\cs408_project_s1\client\client\bin\Debug\client.exe.config
+C:\Users\asus\Desktop\sadas\cs408_project_s1\client\client\bin\Debug\client.exe
+C:\Users\asus\Desktop\sadas\cs408_project_s1\client\client\bin\Debug\client.pdb
+C:\Users\asus\Desktop\sadas\cs408_project_s1\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\sadas\cs408_project_s1\client\client\obj\Debug\client.Form1.resources
+C:\Users\asus\Desktop\sadas\cs408_project_s1\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\asus\Desktop\sadas\cs408_project_s1\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\sadas\cs408_project_s1\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\sadas\cs408_project_s1\client\client\obj\Debug\client.exe
+C:\Users\asus\Desktop\sadas\cs408_project_s1\client\client\obj\Debug\client.pdb
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\ryildirim_yildirim_rutkay_step1\client\client\bin\Debug\client.exe.config
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\ryildirim_yildirim_rutkay_step1\client\client\bin\Debug\client.exe
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\ryildirim_yildirim_rutkay_step1\client\client\bin\Debug\client.pdb
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\ryildirim_yildirim_rutkay_step1\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\ryildirim_yildirim_rutkay_step1\client\client\obj\Debug\client.Form1.resources
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\ryildirim_yildirim_rutkay_step1\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\ryildirim_yildirim_rutkay_step1\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\ryildirim_yildirim_rutkay_step1\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\ryildirim_yildirim_rutkay_step1\client\client\obj\Debug\client.exe
+C:\Users\reaXn\Desktop\reaXn\Lecture Stuff\CS408\ryildirim_yildirim_rutkay_step1\client\client\obj\Debug\client.pdb
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk\client\client\bin\Debug\client.exe.config
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk\client\client\obj\Debug\client.exe
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk\client\client\obj\Debug\client.pdb
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk\client\client\bin\Debug\client.exe
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk\client\client\bin\Debug\client.pdb
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk\client\client\obj\Debug\client.Form1.resources
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.Form1.resources
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.exe
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.pdb
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\bin\Debug\client.exe.config
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\bin\Debug\client.exe
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\bin\Debug\client.pdb
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\bin\Debug\client.exe.config
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.exe
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.pdb
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.Form1.resources
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\bin\Debug\client.exe
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\bin\Debug\client.pdb
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (3)\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\bin\Debug\client.exe.config
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (3)\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.exe
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (3)\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.pdb
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (3)\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\bin\Debug\client.exe
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (3)\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\bin\Debug\client.pdb
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (3)\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (3)\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.Form1.resources
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (3)\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\canbe\Desktop\canberkkeles_keles_canberk (3)\canberkkeles_keles_canberk (2)\canberkkeles_keles_canberk\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (4)\canberkkeles_keles_canberk\client\client\bin\Debug\client.exe.config
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (4)\canberkkeles_keles_canberk\client\client\bin\Debug\client.exe
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (4)\canberkkeles_keles_canberk\client\client\bin\Debug\client.pdb
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (4)\canberkkeles_keles_canberk\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (4)\canberkkeles_keles_canberk\client\client\obj\Debug\client.Form1.resources
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (4)\canberkkeles_keles_canberk\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (4)\canberkkeles_keles_canberk\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (4)\canberkkeles_keles_canberk\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (4)\canberkkeles_keles_canberk\client\client\obj\Debug\client.exe
+C:\Users\htufa\OneDrive\Desktop\canberkkeles_keles_canberk (4)\canberkkeles_keles_canberk\client\client\obj\Debug\client.pdb
+C:\Users\htufa\OneDrive\Desktop\cs408_project_sALL\client\client\bin\Debug\client.exe.config
+C:\Users\htufa\OneDrive\Desktop\cs408_project_sALL\client\client\bin\Debug\client.exe
+C:\Users\htufa\OneDrive\Desktop\cs408_project_sALL\client\client\bin\Debug\client.pdb
+C:\Users\htufa\OneDrive\Desktop\cs408_project_sALL\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\htufa\OneDrive\Desktop\cs408_project_sALL\client\client\obj\Debug\client.Form1.resources
+C:\Users\htufa\OneDrive\Desktop\cs408_project_sALL\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\htufa\OneDrive\Desktop\cs408_project_sALL\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\htufa\OneDrive\Desktop\cs408_project_sALL\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\htufa\OneDrive\Desktop\cs408_project_sALL\client\client\obj\Debug\client.exe
+C:\Users\htufa\OneDrive\Desktop\cs408_project_sALL\client\client\obj\Debug\client.pdb
+C:\Users\canbe\Desktop\cs408_project_sALL\client\client\bin\Debug\client.exe.config
+C:\Users\canbe\Desktop\cs408_project_sALL\client\client\obj\Debug\client.exe
+C:\Users\canbe\Desktop\cs408_project_sALL\client\client\obj\Debug\client.pdb
+C:\Users\canbe\Desktop\cs408_project_sALL\client\client\bin\Debug\client.exe
+C:\Users\canbe\Desktop\cs408_project_sALL\client\client\bin\Debug\client.pdb
+C:\Users\canbe\Desktop\cs408_project_sALL\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\canbe\Desktop\cs408_project_sALL\client\client\obj\Debug\client.Form1.resources
+C:\Users\canbe\Desktop\cs408_project_sALL\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\canbe\Desktop\cs408_project_sALL\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\htufa\OneDrive\Desktop\vayaq\cs408_project_sALL\client\client\bin\Debug\client.exe.config
+C:\Users\htufa\OneDrive\Desktop\vayaq\cs408_project_sALL\client\client\bin\Debug\client.exe
+C:\Users\htufa\OneDrive\Desktop\vayaq\cs408_project_sALL\client\client\bin\Debug\client.pdb
+C:\Users\htufa\OneDrive\Desktop\vayaq\cs408_project_sALL\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\htufa\OneDrive\Desktop\vayaq\cs408_project_sALL\client\client\obj\Debug\client.Form1.resources
+C:\Users\htufa\OneDrive\Desktop\vayaq\cs408_project_sALL\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\htufa\OneDrive\Desktop\vayaq\cs408_project_sALL\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\htufa\OneDrive\Desktop\vayaq\cs408_project_sALL\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\htufa\OneDrive\Desktop\vayaq\cs408_project_sALL\client\client\obj\Debug\client.exe
+C:\Users\htufa\OneDrive\Desktop\vayaq\cs408_project_sALL\client\client\obj\Debug\client.pdb
